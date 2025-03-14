@@ -132,24 +132,6 @@
     "virtual": true
   },
   {
-    "icao": "CLX",
-    "name": "vCLX",
-    "callsign": "Cargolux",
-    "virtual": true
-  },
-  {
-    "icao": "ICV",
-    "name": "vCLX",
-    "callsign": "Cargolux Italia",
-    "virtual": true
-  },
-  {
-    "icao": "LGL",
-    "name": "vCLX",
-    "callsign": "Luxair",
-    "virtual": true
-  },
-  {
     "icao": "WYB",
     "name": "WYBEAIR",
     "callsign": "WYBEAIR",
@@ -162,6 +144,12 @@
     "virtual": true
   },
   {
+    "icao": "VPI",
+    "name": "Virtual Pilot Institute",
+    "callsign": "Virtual",
+    "virtual": true
+  },
+   {
     "icao": "CDF",
     "name": "Jakauma Airlines",
     "callsign": "FUNCTION",
